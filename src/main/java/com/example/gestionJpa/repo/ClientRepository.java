@@ -1,6 +1,6 @@
-package com.example.gestionJpaLombok.repo;
+package com.example.gestionJpa.repo;
 
-import com.example.gestionJpaLombok.entity.Client;
+import com.example.gestionJpa.entity.Client;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface ClientRepository extends JpaRepository<Client,Long> {

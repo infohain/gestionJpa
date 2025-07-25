@@ -1,13 +1,13 @@
-package com.example.gestionJpaLombok;
+package com.example.gestionJpa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GestionJpaLombokApplication {
+public class GestionJpaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GestionJpaLombokApplication.class, args);
+		SpringApplication.run(GestionJpaApplication.class, args);
 	}
 
 }

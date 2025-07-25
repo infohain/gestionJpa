@@ -1,4 +1,4 @@
-package com.example.gestionJpaLombok.entity;
+package com.example.gestionJpa.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

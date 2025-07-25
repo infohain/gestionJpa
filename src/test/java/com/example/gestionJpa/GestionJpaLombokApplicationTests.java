@@ -1,4 +1,4 @@
-package com.example.gestionJpaLombok;
+package com.example.gestionJpa;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

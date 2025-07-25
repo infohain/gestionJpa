@@ -1,0 +1,10 @@
+2025-07-26 00:06:52.080577+01:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Erreur de syntaxe dans l'instruction SQL "SELECT * FROM CLIENT \000d\000aINSERT [*]INTO CLIENT (id, nom, ville) VALUES (1, 'Sara', 'Tanger')"
+Syntax error in SQL statement "SELECT * FROM CLIENT \000d\000aINSERT [*]INTO CLIENT (id, nom, ville) VALUES (1, 'Sara', 'Tanger')"; SQL statement:
+SELECT * FROM CLIENT 
+INSERT INTO CLIENT (id, nom, ville) VALUES (1, 'Sara', 'Tanger') [42000-232]
+2025-07-26 00:07:08.789530+01:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Erreur de syntaxe dans l'instruction SQL "SELECT * FROM CLIENT \000d\000aINSERT [*]INTO CLIENT (id, nom, ville) VALUES (1, 'Sara', 'Tanger')"
+Syntax error in SQL statement "SELECT * FROM CLIENT \000d\000aINSERT [*]INTO CLIENT (id, nom, ville) VALUES (1, 'Sara', 'Tanger')"; SQL statement:
+SELECT * FROM CLIENT 
+INSERT INTO CLIENT (id, nom, ville) VALUES (1, 'Sara', 'Tanger') [42000-232]
